@@ -1,0 +1,31 @@
+{
+  "tareas": [
+    {
+      "id": 1,
+      "titulo": "App Trello",
+      "detalle": "css  html",
+      "persona": "Oscar V",
+      "estado": 3,
+      "finicio":1656910800, 
+      "fentrega":1657947600
+    },
+    {
+      "id": 2,
+      "titulo": "App Trello",
+      "detalle": "db.json",
+      "persona": "Oscar V",
+      "estado": 2,
+      "finicio":1656910800,
+      "fentrega":1290410940
+    },
+    {
+      "id": 3,
+      "titulo": "App Trello",
+      "detalle": "drag",
+      "persona": "Oscar V",
+      "estado": 1,
+      "finicio":1656910800,
+      "fentrega":1290410940
+    }    
+  ]
+}
