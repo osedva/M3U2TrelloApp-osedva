@@ -86,7 +86,7 @@ height: 100%;
 	width: 202px;
 	margin-top: 70px;
 	margin-left: 10px;
-    height: 500px;
+    height: auto;
 	border: 1px solid rgb(42, 240, 190);
 	border-radius: 10px;
     
@@ -132,10 +132,11 @@ height: 100%;
 	margin-top: 2px;
 	float: left;
 	width: 200px;
-	height: 91.4%;
-	
+	height: auto;
+	min-height: 80px;
 	background-color: #fff;
 	border: 1px solid rgb(42, 240, 190);
+	padding: 0px 0px 10px 0px;
 	border-radius: 0 0 10px 10px;
 }
 
@@ -143,10 +144,12 @@ height: 100%;
 	margin: 0px auto;
 	margin-top: 10px;
 	width: 180px;
-	height: 100px;
+	height: auto;
+	padding: 7px 0px 7px 0px;
     box-shadow: 1px 1px 1px 1px rgb(42, 240, 190);
 	border-radius: 5px;
 	cursor: move;
+	
 }
  .div-tarea h4{
     text-align: center;
